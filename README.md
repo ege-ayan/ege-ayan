@@ -42,7 +42,7 @@ My name is Ege Ayan, a senior computer science student at Bilkent University. Cu
 
 Feel free to reach out and connect:
 
-- Email: [egeayan2478@gmail.com](mailto:egeayan2478@gmail.com)
+- Email: [ayanege2001@gmail.com](mailto:ayanege2001@gmail.com)
 - LinkedIn: [Ege Ayan](https://www.linkedin.com/in/ege-ayan/)
 - Instagram: [@ege_ayan](https://www.instagram.com/ege_ayan/)
 
