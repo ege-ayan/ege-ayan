@@ -24,6 +24,8 @@ My name is Ege Ayan, a senior computer science student at Bilkent University. Cu
 - Javascript
 - Python
 - Dart
+- C
+- C++
 
 ### Frameworks & Libraries
 
