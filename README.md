@@ -1,16 +1,47 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**ege-ayan/ege-ayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ege Ayan, a senior computer science student at Bilkent University. Currently, I am working as a software engineer at Infinia.
 
-Here are some ideas to get you started:
+## 🚀 Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Infinia** - Software Engineer
+- **Microsoft** - Full Stack Developer Intern
+- **Moralabs** - Android Developer Intern
+
+## 💻 Interests
+
+- Mobile Applications
+- Web Applications
+- Full Stack Development
+- Database Management Systems
+
+## 🛠️ Technologies & Tools
+
+### Programming Languages
+
+- Java
+- Kotlin
+- Javascript
+- Python
+- Dart
+
+### Frameworks & Libraries
+
+- React.js
+- Next.js
+- Node.js
+- Spring Boot
+- Tailwind CSS
+- Bootstrap
+- Flutter
+- Android Jetpack
+
+## 📫 Connect with Me
+
+Feel free to reach out and connect:
+
+- Email: [egeayan2478@gmail.com](mailto:egeayan2478@gmail.com)
+- LinkedIn: [Ege Ayan](https://www.linkedin.com/in/ege-ayan/)
+- Instagram: [@ege_ayan](https://www.instagram.com/ege_ayan/)
+
+Let's code something amazing together! 🚀
