@@ -37,7 +37,12 @@ My name is Ege Ayan, a senior computer science student at Bilkent University. Cu
 - Bootstrap
 - Flutter
 - Android Jetpack
-- 
+  
+### Database Systems
+
+- PostgreSQL
+- MySQL
+  
 ## 🎉 Hobbies
 
 - **Taekwondo** 🥋
