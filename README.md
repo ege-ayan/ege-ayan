@@ -4,7 +4,7 @@ My name is Ege Ayan, a senior computer science student at Bilkent University. Cu
 
 ## 🚀 Experience
 
-- **Infinia** - Software Engineer
+- **INFINIA** - Software Engineer
 - **Microsoft** - Full Stack Development Intern
 - **Moralabs** - Android Development Intern
 
