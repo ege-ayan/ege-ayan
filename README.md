@@ -1,4 +1,4 @@
-# Hello, World! 👋
+# "Hello World!" 👋
 
 My name is Ege Ayan, a senior computer science student at Bilkent University. Currently, I am working as a software engineer at INFINIA.
 
