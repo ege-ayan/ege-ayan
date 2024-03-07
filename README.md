@@ -125,3 +125,9 @@ Feel free to reach out and connect:
 - Instagram: [@ege_ayan](https://www.instagram.com/ege_ayan/)
 
 Let's code something amazing together! 🚀
+
+## 📊 GitHub Statistics
+
+[![Ege Ayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=egeayan&show_icons=true&theme=radical)](https://github.com/egeayan)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egeayan&layout=compact&theme=radical)](https://github.com/egeayan)
