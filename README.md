@@ -128,6 +128,6 @@ Let's code something amazing together! 🚀
 
 ## 📊 GitHub Statistics
 
-[![Ege Ayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=egeayan&show_icons=true&theme=radical)](https://github.com/egeayan)
+[![Ege Ayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ege-ayan&show_icons=true&theme=radical)](https://github.com/ege-ayan)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egeayan&layout=compact&theme=radical)](https://github.com/egeayan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ege-ayan&layout=compact&theme=radical)](https://github.com/ege-ayan)
