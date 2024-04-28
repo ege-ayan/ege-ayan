@@ -14,6 +14,7 @@ My name is Ege Ayan, a senior computer science student at Bilkent University. Cu
 - Web Applications
 - Full Stack Development
 - Database Management Systems
+- Software Analytics
 
 ## ⚙️ Languages, Frameworks and Tools
 
