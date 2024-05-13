@@ -129,4 +129,6 @@ Let's code something amazing together! 🚀
 
 ## 📊 GitHub Statistics
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ege-ayan&layout=compact&theme=radical)](https://github.com/ege-ayan)
+
 
