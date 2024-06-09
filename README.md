@@ -8,7 +8,7 @@
 
 ## 📕 Education
 
-- **Bilkent University** - Department of Computer Engineering
+- **Bilkent University** - Computer Engineering
 - **Middle East Technical University Development Foundation** - High School
 
 ## 💻 Interests
