@@ -1,12 +1,17 @@
 # "Hello World!" 👋
 
-My name is Ege Ayan, a senior computer science student at Bilkent University. Currently, I am working as a software engineer at INFINIA.
+My name is Ege Ayan,. Currently, I am working as a software engineer at INFINIA.
 
 ## 🚀 Experience
 
 - **INFINIA** - Software Engineer
 - **Microsoft** - Full Stack Development Intern
 - **Moralabs** - Android Development Intern
+
+## 📕 Education
+
+- **Bilkent University** - Department of Computer Engineering
+- **Middle East Technical University Development Foundation** - High Scool
 
 ## 💻 Interests
 
